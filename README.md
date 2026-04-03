@@ -69,6 +69,13 @@ This project bridges the gap between theoretical AI concepts and practical under
 
 ## 📂 Structure 
 
+## 📂 Project Structure  
+
+- `src/algorithms/` → Pathfinding algorithms  
+- `src/components/` → UI components  
+- `src/maze/` → Maze generation logic  
+- `src/utils/` → Helper functions  
+
 
 ## 🧾 Conclusion  
 
