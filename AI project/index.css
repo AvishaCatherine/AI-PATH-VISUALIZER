@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0a0a0a;
+  color: #ffffff;
+  font-family: monospace;
+  min-height: 100vh;
+  user-select: none;
+}
+
+button {
+  cursor: pointer;
+  font-family: monospace;
+}
