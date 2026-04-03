@@ -67,7 +67,6 @@ This project bridges the gap between theoretical AI concepts and practical under
 
 ---
 
-## 📂 Structure 
 
 ## 📂 Project Structure  
 
@@ -75,7 +74,7 @@ This project bridges the gap between theoretical AI concepts and practical under
 - `src/components/` → UI components  
 - `src/maze/` → Maze generation logic  
 - `src/utils/` → Helper functions  
-
+---
 
 ## 🧾 Conclusion  
 
