@@ -14,10 +14,6 @@ Interactive AI pathfinding visualizer with real-time animations and algorithm co
 
 ---
 
-## 🚀 Overview  
-
-An interactive AI-based pathfinding visualizer that shows how algorithms explore and find the shortest path in real time.
-
 
 ## 🚀 Overview  
 
@@ -71,10 +67,13 @@ This project bridges the gap between theoretical AI concepts and practical under
 
 ---
 
-## 🎬 Demo  
+## 📂 Structure 
 
-![Demo](assets/demo.gif)
+
+## 🧾 Conclusion  
+
+The AI Path Visualizer provides a clear and interactive way to understand how pathfinding algorithms work. It simplifies complex AI concepts through real-time visualization and comparison, making learning intuitive and engaging.
 
 ---
 
-## 📂 Structure  
+
